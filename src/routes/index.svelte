@@ -26,7 +26,7 @@ fetchCards();
 
 </script>
 <svelte:head>
-	<title>Flipbook Test test</title>
+	<title>Flipbook</title>
 </svelte:head>
 
 <input class="fixed top-10  w-fit rounded-md text-lg p-4 border-2 border-gray-200 dark:border-gray-700" bind:value={searchTerm} placeholder="Search">
